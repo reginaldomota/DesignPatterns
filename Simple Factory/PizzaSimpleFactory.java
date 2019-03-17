@@ -11,7 +11,7 @@ public class PizzaSimpleFactory {
 		else if(tipo.equals("Calabresa")){
 			pizza = new CalabresaPizza();
 		}
-		else if(tipo.equals("Cafe")){
+		else if(tipo.equals("Café")){
 			pizza = new CafePizza();
 		}
 		
